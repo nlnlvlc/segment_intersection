@@ -1,4 +1,4 @@
-# Programming Assignment Two: Leg Segmentation
+# Leg Segmentation
 This project finds the points of intersection between a set of line segments. This project contains two programs:
 
 1. A line sweep algorithm which identifies where two segments intersect, if there is a point of intersection.
